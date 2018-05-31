@@ -1,0 +1,33 @@
+body {
+  
+    background-color: aqua;
+}
+
+#container {
+    background: beige;
+    width: 75%;
+    height: auto;
+}
+
+#display-bar {
+    width: 300px;
+    height: auto;
+    background-color: lightpink;
+    
+    color: magenta;
+    font-size: 30px;
+}
+
+.btn {
+    background: tomato;
+    width: 50px;
+    height: 50px;
+    transition: 0.2s;
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+}
+
+.btn p {
+    color: white;
+}
